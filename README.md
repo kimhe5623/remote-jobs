@@ -16,5 +16,5 @@ https://day-thirteen-and-fourteen.fancyhy0eun2.repl.co/
 
 ### 스크린샷
 
-<img src="https://user-images.githubusercontent.com/32252093/107155062-a26f4700-69b9-11eb-8a48-49e8977f9e6a.png" width="800" />
+<img src="https://user-images.githubusercontent.com/32252093/107155062-a26f4700-69b9-11eb-8a48-49e8977f9e6a.png" width="600" />
 <img src="https://user-images.githubusercontent.com/32252093/107155071-b2872680-69b9-11eb-9d73-fba2981e46dd.png" width="800" />
